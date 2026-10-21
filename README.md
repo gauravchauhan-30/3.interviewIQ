@@ -2,7 +2,7 @@
 
 An AI-powered mock interview platform built with the MERN stack. Upload your resume, get personalized interview questions, answer them **by voice or text** against a timer, and receive an AI-scored report with charts.
 
-**Live Demo:** [](https://three-interviewiq-1-2g0t.onrender.com)
+**Live Demo:** https://three-interviewiq-1-2g0t.onrender.com
 
 ## ✨ Features
 
