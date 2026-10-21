@@ -169,7 +169,7 @@ All routes except login and logout need the JWT cookie.
 
 ## 👨‍💻 Author
 
-**[Gaurav Chauhan]**
+**Gaurav Chauhan**
 
 - GitHub:  https://github.com/gauravchauhan-30
 - LinkedIn: https://www.linkedin.com/in/gauravchauhan30
